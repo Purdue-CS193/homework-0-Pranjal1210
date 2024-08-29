@@ -17,8 +17,8 @@ Syntax highlighted code block
 - No homework
 - Easy quizes and class content
 
-1. Numbered
-2. List
+1. Its schedule is pretty nice
+2. Class is very chill
 
 ** Some Bold Text** and _Some Italic Text_ and ` Some Code Text` text
 
